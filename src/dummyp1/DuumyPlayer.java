@@ -9,5 +9,6 @@ package dummyp1;
  * @author nakamurasayaka
  */
 public class DuumyPlayer {
-    
+
+   //  this is for practice!
 }
